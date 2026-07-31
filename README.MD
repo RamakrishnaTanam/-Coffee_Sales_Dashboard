@@ -229,7 +229,3 @@ Potential enhancements include:
 - Advanced Dashboard Metrics
 - Power BI Version
 - Sales Forecasting
-
----
-
-# ⭐ If you found this project helpful, consider giving the repository a Star!
