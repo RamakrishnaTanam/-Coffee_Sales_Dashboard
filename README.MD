@@ -1,4 +1,4 @@
-# ☕ Coffee Sales Dashboard | Microsoft Excel
+# ☕ Coffee Sales Dashboard
 
 An interactive **Coffee Sales Dashboard** built entirely in **Microsoft Excel** to analyze sales performance, customer behavior, and country-wise revenue. This project demonstrates the complete Excel analytics workflow—from raw data preparation to an interactive dashboard using Pivot Tables, Pivot Charts, Timelines, and Slicers.
 
